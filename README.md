@@ -27,3 +27,16 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+
+
+## When to use each
+jupyter: 
+1. digging into data 
+2. testing small bits of code
+3. data analysis
+4. brainstorming and analysis steps
+
+script: 
+1. building a real application
+2. structured, reusable code
+3. preparing production-ready code
